@@ -1,6 +1,6 @@
 # typemate-policy
 
-Privacy policy page for Typemate.
+Privacy policy page for Typemate. The app stores MBTI and friend data locally on the user's device and uses Google AdMob for ads.
 
 ## GitHub Pages
 
